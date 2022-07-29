@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace taş_kağıt_makas_pogchamp
 {
@@ -94,6 +94,7 @@ namespace taş_kağıt_makas_pogchamp
                         {
                             Console.WriteLine("Kaybettin!");
                             loses++;
+                            wins--;
                         }
                         if (player-computer == -2)
                         {
@@ -109,6 +110,7 @@ namespace taş_kağıt_makas_pogchamp
                         {
                             Console.WriteLine("Kaybettin!");
                             loses++;
+                            wins--;
                         }
 
                     }
