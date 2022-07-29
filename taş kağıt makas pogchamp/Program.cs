@@ -13,7 +13,7 @@ namespace taş_kağıt_makas_pogchamp
             int min = 1;
             int max = 3;
 
-            int both = player - computer; //ikisinin genel hali
+            int both = player - computer; //ikisinin genel hali (kullanmadım aq)
 
             string playerselected = "Null";
             string computerselected = "Null";
