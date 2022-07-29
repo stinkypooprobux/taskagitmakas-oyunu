@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace taş_kağıt_makas_pogchamp
 {
@@ -18,7 +18,6 @@ namespace taş_kağıt_makas_pogchamp
             string playerselected = "Null";
             string computerselected = "Null";
 
-            int wins = 0;
             int loses = 0;
 
             Console.WriteLine("-------------------------------------------------");
@@ -64,51 +63,33 @@ namespace taş_kağıt_makas_pogchamp
 
 
                     while (playagain)
-                    {
-                        computer = random.Next(min, max + 1);
-
-                        if (computer == 1) //daş
-                        { 
-                            computerselected = "Taş";
-                            playagain = false;
-                        }
-                        else if (computer == 2) //kağt
+                    { 
+                        if (player == 1)
                         {
-                            computerselected = "Kağıt";
-                            playagain = false;
-                        }
-                        else if (computer == 3) //maksas
-                        {
-                            computerselected = "Makas";
-                            playagain = false;
-                        }
-
-                        Console.WriteLine("-------------------------------------------");
-                        Console.WriteLine($"Rakibinin seçtiği: {computerselected}");
-                        Console.WriteLine("-------------------------------------------");
-                        if (player-computer == 0)
-                        {
-                            Console.WriteLine("Berabere!");
-                        }
-                        if (player-computer == -1)
-                        {
+                            Console.WriteLine("-------------------------------------------");
+                            Console.WriteLine("Rakibinin seçtiği: Kağıt");
+                            Console.WriteLine("-------------------------------------------");
                             Console.WriteLine("Kaybettin!");
                             loses++;
+                            playagain = false;
                         }
-                        if (player-computer == -2)
+                        if (player == 2)
                         {
-                            Console.WriteLine("Kazandın!");
-                            wins++;
-                        }
-                        if (player-computer == 1)
-                        {
-                            Console.WriteLine("Kazandın!");
-                            wins++;
-                        }
-                        if (player-computer == 2)
-                        {
+                            Console.WriteLine("-------------------------------------------");
+                            Console.WriteLine("Rakibinin seçtiği: Makas");
+                            Console.WriteLine("-------------------------------------------");
                             Console.WriteLine("Kaybettin!");
                             loses++;
+                            playagain = false;
+                        }
+                        if (player == 3)
+                        {
+                            Console.WriteLine("-------------------------------------------");
+                            Console.WriteLine($"Rakibinin seçtiği: Taş");
+                            Console.WriteLine("-------------------------------------------");
+                            Console.WriteLine("Kaybettin!");
+                            loses++;
+                            playagain = false;
                         }
 
                     }
@@ -124,7 +105,7 @@ namespace taş_kağıt_makas_pogchamp
                 }
 
                 Console.WriteLine("-------------------------------------------");
-                Console.WriteLine($"{wins} defa kazandın ve {loses} defa kaybettin."); //oyunun sonu :(
+                Console.WriteLine($"0 defa kazandın ve {loses} defa kaybettin."); //oyunun sonu :(
                 Console.WriteLine("Yeniden denemek ister misin?"); 
                 Console.WriteLine("E : Evet");
                 Console.WriteLine("H : Hayır");
