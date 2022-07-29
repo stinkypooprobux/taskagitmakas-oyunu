@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z0nzkWQyXMfQgdpuZPskXUWeOg3XVNR321JJW4Y2xoWmZiUaVX5cpto07JLCZUXNTh059N/GSZUiKHFQTpPzKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\taş kağıt makas pogchamp\\taş kağıt makas pogchamp\\taş kağıt makas pogchamp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

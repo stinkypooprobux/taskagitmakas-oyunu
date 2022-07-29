@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\bin\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.exe
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\bin\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.deps.json
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\bin\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.runtimeconfig.json
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\bin\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.runtimeconfig.dev.json
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\bin\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.dll
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\bin\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.pdb
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\obj\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\obj\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\obj\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.AssemblyInfo.cs
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\obj\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\obj\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.dll
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\obj\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.pdb
+C:\Users\USER\source\repos\taş kağıt makas pogchamp\taş kağıt makas pogchamp\obj\Joke Release\netcoreapp3.1\taş kağıt makas pogchamp.genruntimeconfig.cache
